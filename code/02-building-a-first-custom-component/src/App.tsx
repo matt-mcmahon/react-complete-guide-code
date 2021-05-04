@@ -1,4 +1,6 @@
-import ExpenseItem from './components/ExpenseItem';
+import React from "react";
+import "./App.css";
+import ExpenseItem from "./components/ExpenseItem";
 
 function App() {
   return (
