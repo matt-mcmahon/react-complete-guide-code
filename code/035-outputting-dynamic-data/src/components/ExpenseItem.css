@@ -27,7 +27,7 @@
   color: white;
 }
 
-.expense-item__price {
+.expense-item__amount {
   font-size: 1rem;
   font-weight: bold;
   color: white;
